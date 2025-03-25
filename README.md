@@ -32,7 +32,7 @@ To run the app locally, follow these steps:
 3. **Open in Browser**: Open `index.html` in your web browser to start using the app.
 
 ## Live Demo
-Experience the live version of the app [here](https://owaiszakir.github.io/Palindrome-checker-app/). Test your skills and see how many palindromes you can find!
+Experience the live version of the app [here](https://owaiszakir.github.io/JavaScript_Palindrome_Checker_Project/). Test your skills and see how many palindromes you can find!
 
 ## Acknowledgements
 - Special thanks to **Zubair Shaikh**, my institute teacher, for his guidance and support throughout this project.
